@@ -10,7 +10,7 @@ class SpringWebMvcApplicationTests {
 
 	@Test
 	void contextLoads() {
-		String bbbbb = "DDgit ";
+		String bbbbb = "AAAAAA";
 		assertEquals(bbbbb, bbbbb);
 	}
 
